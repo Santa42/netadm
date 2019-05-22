@@ -1,15 +1,20 @@
-.. netadm documentation master file, created by
-   sphinx-quickstart on Tue May 21 10:52:52 2019.
+.. Сетевой инженер documentation master file, created by
+   sphinx-quickstart on Wed May 22 09:12:11 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Сетевой инженер
-===============
+Welcome to Сетевой инженер's documentation!
+===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание:
+   :caption: Contents:
 
 
-   book/Part_I
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
