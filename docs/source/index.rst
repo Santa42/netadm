@@ -11,6 +11,5 @@
    :caption: Содержание:
 
 
-   book/Module1/index
-   book/Module2/index
+   book/index
 

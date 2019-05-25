@@ -9,3 +9,5 @@ I. Подготовка к проекту
    Part_III
    Part_IV
    Part_V
+   Part_VI
+   Part_VII
