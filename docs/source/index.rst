@@ -11,8 +11,8 @@
    :caption: Содержание:
 
 
-   book/Part_I
-   book/Part_II
-   book/Part_III
-   book/Part_IV
-   book/Part_V
+   book/Module1/Part_I
+   book/Module1/Part_II
+   book/Module1/Part_III
+   book/Module1/Part_IV
+   book/Module1/Part_V
