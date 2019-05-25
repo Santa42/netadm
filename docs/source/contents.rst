@@ -7,3 +7,4 @@
 
 
    book/Module1/index
+   book/Module2/index
