@@ -5,6 +5,7 @@
    basic2
    multiarea
    lsa
+   areas
    filtlsa
    other
    dif
