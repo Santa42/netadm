@@ -2,7 +2,7 @@ I. Подготовка к проекту
 #######################
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Part_I
    Part_II
