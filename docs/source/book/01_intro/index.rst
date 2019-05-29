@@ -2,7 +2,7 @@
    :maxdepth: 1
 
    osi
-   datatransfer
+   datatrans
    mtu
    protocols
    osi_l1
