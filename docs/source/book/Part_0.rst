@@ -13,23 +13,23 @@
   * повторение бызовых понятий и принципов работы сетей:
      * `Основы сетей`_
 
-   .. _`Основы сетей`: /book/Part_I
+   .. _`Основы сетей`: /book/Part_I.html
 
   * подготовку проекта к работе с протоколами маршрутизации:
-     * `Протокол IP`_
-     * `PBR`_
-     * `VPN`_
+     * IP_
+     * PBR_
+     * VPN_
 
-   .. _`Проктол IP`: /book/Part_II
-   .. _PBR: /book/Part_III
-   .. _VPN: /book/Part_V
+   .. _IP: /book/Part_II.html
+   .. _PBR: /book/Part_III.html
+   .. _VPN: /book/Part_V.html
 
 Вторая часть книги посвящена работе с протоколами IGP:
   * OSPF_
   * EIGRP_
 
-   .. _OSPF: /book/Part_VI
-   .. _EIGRP: /book/Part_VII
+   .. _OSPF: /book/Part_VI.html
+   .. _EIGRP: /book/Part_VII.html
 
 Треться часть о работе протокола BGP:
 
