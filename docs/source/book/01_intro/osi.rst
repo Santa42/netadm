@@ -25,7 +25,7 @@
 
 Сравнение моделей:
 
-.. figure:: img/01/osi.png
+.. figure:: https://netadm.readthedocs.io/img/01/osi.png
        :scale: 100 %
        :align: center
 
