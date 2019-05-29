@@ -25,7 +25,7 @@
 
 Сравнение моделей:
 
-.. image:: book/img/01/osi.png
+.. image:: ../img/01/osi.png
        :scale: 100 %
        :align: center
        :alt: Сравнение моделей OSI и TCP/IP
