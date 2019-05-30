@@ -28,6 +28,7 @@ MTU выбает нескольких видов:
 Чтобы настроить значение MTU на маршрутизаторе необходимо выполнить следующие действия:
 
 .. code::
+
     R01(config)#interface gigabitEthernet 5/1
     R01(config-if)#mtu 1532
     R01(config-if)#exit
@@ -35,6 +36,7 @@ MTU выбает нескольких видов:
 На коммутаторах значение MTU обычно настраивается для всей системы полностью, а не по интерфейсам, так же потребуется перезагрузка:
 
 .. code::
+
     SW1(config)#system mtu 1532
     SW1(config)#exit
     SW1#reload
@@ -42,6 +44,7 @@ MTU выбает нескольких видов:
 Проверить настройки MTU на маршрутизаторе:
 
 .. code::
+
     R01#show interfaces gigabitEthernet 5/1
     GigabitEthernet5/1 is up, line protocol is up (connected)
       Hardware is C6k 1000Mb 802.3, address is 0008.e3ff.fde0 (bia 0008.e3ff.fde0)
