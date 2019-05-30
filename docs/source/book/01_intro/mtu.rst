@@ -32,7 +32,7 @@ MTU выбает нескольких видов:
 
 Чтобы настроить значение IP MTU на маршрутизаторе необходимо выполнить следующие действия:
 
-.. code::
+::
 
     R01(config)#interface gigabitEthernet 5/1
     R01(config-if)#mtu 1532
@@ -40,7 +40,7 @@ MTU выбает нескольких видов:
 
 Проверить настройки MTU на маршрутизаторе:
 
-.. code::
+::
 
     R01#show interfaces gigabitEthernet 5/1
     GigabitEthernet5/1 is up, line protocol is up (connected)
@@ -54,7 +54,7 @@ MTU выбает нескольких видов:
 
 Чтобы настроить значение MSS на интерфейсе маршрутизатора необходимо выполнить следующие действия. Для транзитного трафика:
 
-.. code::
+::
 
     R01(config)#interface gigabitEthernet 5/1
     R01(config-if)#ip tcp adjust-mss?
@@ -62,14 +62,14 @@ MTU выбает нескольких видов:
 
 Либо глобальная настройка маршртизатора. Действует только для сессий установленых не посредственно с маршрутизатором:
 
-.. code::
+::
 
     R01(config)#ip tcp mss?
     <0-10000>  MSS
 
 На коммутаторах значение MTU обычно настраивается для всей системы полностью, а не по интерфейсам, так же потребуется перезагрузка. Данная настройка применима для FastEthernet:
 
-.. code::
+::
 
     SW1(config)#system mtu 1600
     SW1(config)#exit
@@ -77,7 +77,7 @@ MTU выбает нескольких видов:
 
 Для работы на интерфейсах GigabitEthernet и Ten GigabitEthernet:
 
-.. code::
+::
 
     SW1(config)#system mtu jumbo 1600
     SW1(config)#exit
@@ -85,7 +85,7 @@ MTU выбает нескольких видов:
 
 Так же у коммутатора могут быть маршрутизурующие порты:
 
-.. code::
+::
 
     SW1(config)#system mtu routing 1600
     SW1(config)#exit
@@ -93,7 +93,7 @@ MTU выбает нескольких видов:
 
 Просмотреть значение MTU на коммутаторе:
 
-.. code::
+::
     SW01#show system mtu
 
     System MTU size is 1600 bytes
