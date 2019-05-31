@@ -1,5 +1,5 @@
 BGP
-~~~
+---
 Существует два основных типов протоколов маршрутизации:
   * IGP - interior gateway protocol: ISIS/OSPF/RIP/EIGRP
   * EGP - exterior gateway protocol: BGP
