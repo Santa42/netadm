@@ -1,7 +1,9 @@
-Протокол IP
-###########
+Основы сетей
+############
+
+
 
 .. toctree::
    :maxdepth: 1
 
-   02_IP/index
+   02_intro/index

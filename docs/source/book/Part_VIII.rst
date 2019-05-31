@@ -1,8 +1,8 @@
-BGP
-###
+EIGRP
+#####
 
 .. toctree::
    :maxdepth: 1
 
-   08_bgp/index
+   08_eigrp/index
 

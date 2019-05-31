@@ -10,7 +10,6 @@
    :maxdepth: 2
    :caption: Содержание:
 
-   book/Part_0
    book/Part_I
    book/Part_II
    book/Part_III
@@ -19,4 +18,5 @@
    book/Part_VI
    book/Part_VII
    book/Part_VIII
+   book/Part_IX
 

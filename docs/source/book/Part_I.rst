@@ -1,9 +1,9 @@
-Основы сетей
-############
+О книге
+#######
 
 
 
 .. toctree::
    :maxdepth: 1
 
-   01_intro/index
+   01/index

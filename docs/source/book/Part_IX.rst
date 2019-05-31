@@ -1,7 +1,8 @@
-OSPF
-####
+BGP
+###
 
 .. toctree::
    :maxdepth: 1
 
-   07_ospf/index
+   09_bgp/index
+
