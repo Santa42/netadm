@@ -4,5 +4,5 @@
 .. toctree::
    :maxdepth: 1
 
-   09_bgp/index
+   09_bgp/basic
 
