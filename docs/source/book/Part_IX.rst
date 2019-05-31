@@ -1,5 +1,5 @@
-BGP
-###
+Протокол BGP
+############
 
 .. toctree::
    :maxdepth: 1
