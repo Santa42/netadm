@@ -14,3 +14,4 @@
    book/Part_V
    book/Part_VI
    book/Part_VII
+   book/Part_VIII
