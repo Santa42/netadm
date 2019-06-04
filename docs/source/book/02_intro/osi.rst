@@ -25,7 +25,7 @@
 
 Сравнение моделей:
 
-.. image:: ../img/01/osi.png
+.. image:: ../img/02/osi.png
        :width: 100 %
        :align: center
 

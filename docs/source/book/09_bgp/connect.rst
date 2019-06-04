@@ -87,14 +87,14 @@ ASN32 могут записывать двумя видами:
 
   router bgp 400
     network 100.0.0.1 mask 255.255.255.255
-    neighbor 20.0.0.1 remote-as 200
+    neig
+
+  router bgp 200
+    nehbor 20.0.0.1 remote-as 200
 
 Так же можно задать нескольких соседей. Однако, если у нас есть несколько сосдей с полностью идентичными настройками то желательно использовать такой механизм как peer-group:
 
-::
-
-  router bgp 200
-    neighbor 100 peer-group
+::ighbor 100 peer-group
     neighbor 1.0.0.2 peer-group 100
     neighbor 2.0.0.3 peer-group 100
     neighbor 100 remote-as 100
